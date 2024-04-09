@@ -6,7 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peet3r&layout=donut-vertical&theme=dark)](https://github.com/peet3r/github-readme-stats)
 
-
+<i class="bi bi-linkedin"></i>
+<i class="bi bi-instagram"></i>
+<i class="bi bi-spotify"></i>
 
 <!--
 **peet3r/peet3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
