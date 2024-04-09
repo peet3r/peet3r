@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/peet3r/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peet3r)](https://github.com/peet3r/github-readme-stats)
 
 <!--
 **peet3r/peet3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
