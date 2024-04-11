@@ -8,9 +8,9 @@
 
 <p align='left'><a href="https://github.com/peet3r"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a>
   
-  <a href="https://www.linkedin.com/in/pedro-costa-42ba2b302/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a>
-  
-  <a href="https://open.spotify.com/user/17r8wja7lmkvsz9riyonwg4ht?si=TEwwmverTAeKwz4xPgFv4A"><img src="https://img.icons8.com/?size=80&id=zQBiTJTC1Gj0&format=png" width="40"height='40'></a></p>
+  <a href="https://www.linkedin.com/in/pedro-costa-42ba2b302/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a> 
+ 
+  <a href="https://open.spotify.com/user/17r8wja7lmkvsz9riyonwg4ht?si=TEwwmverTAeKwz4xPgFv4A"><img src= "[](https://icons8.com.br/icon/vzJRN9S0Db0Q/spotify)" width="40"height='40'></a></p>
 
 <!--
 **peet3r/peet3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
